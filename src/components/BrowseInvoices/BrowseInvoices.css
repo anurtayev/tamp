@@ -1,0 +1,6 @@
+.BrowseInvoices {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  padding: 1em 3em 1em 3em;
+}

@@ -1,0 +1,6 @@
+.Invoice {
+  border-radius: 0.2em;
+  box-shadow: 0.2em 0.2em 0.5em 0.05em lightblue;
+  padding: 1em;
+  margin-bottom: 1em;
+}
